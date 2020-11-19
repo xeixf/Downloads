@@ -1,2 +1,2 @@
 @ECHO OFF
-start http://www.mediafire.com/file/vp0t6eccn1uvaqd/Minecraft_1.16.40_Offical_Appx_File.Appx/file
+start http://download858.mediafire.com/ctpbbmzr178g/06m5u9u8ezrhtod/Microsoft.MinecraftUWP_1.16.10004.0_x64__8wekyb3d8bbwe.Appx
